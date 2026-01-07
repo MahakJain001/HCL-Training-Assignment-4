@@ -10,7 +10,7 @@ import java.sql.Statement;
 //message will displayed otherwise "Unable to connect" 
 //message should be displayed.
 
-public class Exercise1 {
+public class Program1{
     public static void main(String[] args) {
 
         try {
@@ -38,3 +38,4 @@ public class Exercise1 {
         }
     }
 }
+
